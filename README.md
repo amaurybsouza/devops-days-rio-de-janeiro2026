@@ -1,7 +1,7 @@
 ## 🎤Palestra
 🚨 PALESTRANTE CONFIRMADO! 🚨
 
-Temos o prazer de anunciar que [Amaury Borges Souza]()https://www.linkedin.com/in/amaurybsouza/, nosso Senior Cybersecurity Engineer, estará no palco do DevOpsDays Rio de Janeiro! 
+Temos o prazer de anunciar que [Amaury Borges Souza](https://www.linkedin.com/in/amaurybsouza/), nosso Senior Cybersecurity Engineer, estará no palco do DevOpsDays Rio de Janeiro! 
 
 Prepare-se para uma palestra imperdível sobre "Segurança sem fricção: como escalar DevSecOps sem travar desenvolvedores". Amaury trará insights valiosos sobre como integrar segurança de forma eficiente, garantindo que o desenvolvimento continue ágil e sem obstáculos. 
 
