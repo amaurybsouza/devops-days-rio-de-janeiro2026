@@ -32,6 +32,8 @@ Não perca a chance de aprender com um dos maiores especialistas da área e desc
 
 Nesta apresentação demonstro como agentes de IA podem apoiar pipelines modernos de DevSecOps, utilizando análise contextual, Skills especializadas e ferramentas tradicionais de segurança para reduzir ruído, priorizar vulnerabilidades e melhorar a experiência do desenvolvedor.
 
+![alt text](image-1.png)
+
 Durante a sessão são apresentados exemplos práticos utilizando GitHub Actions, Claude Code, Trivy, Terraform e Docker.
 
 Na palestra “10 Verificações Rápidas para Saber se Sua Conta AWS Está Realmente Segura”, ele apresenta um checklist prático usado nos primeiros minutos ao acessar uma conta AWS — focado em identificar rapidamente o nível real de maturidade de segurança.
