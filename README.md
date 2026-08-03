@@ -24,7 +24,7 @@ Não perca a chance de aprender com um dos maiores especialistas da área e desc
 
 **Palestrante**
 
-Amaury Borges Souza
+[Amaury Borges Souza](https://www.linkedin.com/in/amaurybsouza/)
 
 ---
 
